@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color:rgb(78, 200, 80);
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+    box-shadow: 0 0 10px white;
+}
+.about h2{
+    background:rgb(78, 200, 80);
+    color:white;
+    box-shadow: 0 0 10px white;
+    text-align: center;
+}
+.skills h2{
+    background:rgb(78, 200, 80);
+    color:white;
+    box-shadow: 0 0 10px white;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: rgb(151, 244, 160);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px white;
+}
+.bio-image {
+    max-width: 93%;
+    border-radius: 5%;
+    margin-bottom: 20px;
+    text-decoration:center;
+    box-shadow: 0 0 10px white;
+    padding: 20px;
+    
+}
+.projects h2{
+    background:rgb(78, 200, 80);
+    color:white;
+    box-shadow: 0 0 10px white;
+    text-align: center;
+}
+.resume h2{
+    background:rgb(78, 200, 80);
+    color:white; 
+    box-shadow: 0 0 10px white;
+    text-align: center;
+
+}
+.contact h2{
+    background:rgb(78, 200, 80);
+    color:white;
+    box-shadow: 0 0 10px white;
+    text-align: center;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+.project img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 10px white;
+}
+.footer {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 0.1%;
+    border-top: 1px solid white;
+    background: rgb(78, 200, 80);
+    color:white;
+    box-shadow: 0 0 10px white;
+}
